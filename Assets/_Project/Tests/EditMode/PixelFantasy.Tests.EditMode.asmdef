@@ -1,0 +1,15 @@
+{
+    "name": "PixelFantasy.Tests.EditMode",
+    "rootNamespace": "PixelFantasy.Tests",
+    "references": [
+        "PixelFantasy.Gameplay"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "autoReferenced": false
+}
+
