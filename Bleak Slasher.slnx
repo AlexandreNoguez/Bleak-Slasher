@@ -1,4 +1,6 @@
 ﻿<Solution>
+  <Project Path="PixelFantasy.Tests.EditMode.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="PixelFantasy.Gameplay.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
 </Solution>

@@ -1,0 +1,9 @@
+{
+    "name": "PixelFantasy.Gameplay",
+    "rootNamespace": "PixelFantasy",
+    "references": [
+        "Unity.InputSystem"
+    ],
+    "autoReferenced": true
+}
+
